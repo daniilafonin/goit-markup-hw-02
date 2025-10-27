@@ -70,6 +70,10 @@ a {
   background-color: #4d5ae5;
   cursor: pointer;
 }
+.button:hover,
+.button:focus {
+  background-color: #404bbf;
+}
 .your-business {
   width: 1440px;
   height: 600px;
