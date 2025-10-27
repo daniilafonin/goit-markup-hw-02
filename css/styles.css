@@ -53,7 +53,7 @@ a {
 }
 /* #endregion */
 /* #region your business styles */
-.title-h1 {
+.title-your-business {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -81,7 +81,7 @@ a {
 }
 /* #endregion */
 /* #region advantages styles */
-.advantages-h3 {
+.title-advantages {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -97,7 +97,7 @@ a {
 }
 /* #endregion */
 /* #region our team */
-.team-h2 {
+.title-our-team {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -117,7 +117,7 @@ a {
 }
 /* #endregion */
 /* #region portfolio styles */
-.portfolio-h2 {
+.title-our-portfolio {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.12;
@@ -125,7 +125,7 @@ a {
   text-align: center;
   color: #2e2f42;
 }
-.portfolio-h3 {
+.title-portfolio-app {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
