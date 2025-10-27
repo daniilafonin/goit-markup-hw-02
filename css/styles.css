@@ -12,7 +12,7 @@ ol {
 a {
   text-decoration: none;
 }
-
+/* #region header styles */
 .logo {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
@@ -51,14 +51,95 @@ a {
 .contacts-link:focus {
   color: #404bbf;
 }
-
+/* #endregion */
+/* #region your business styles */
+.h1 {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.1;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+}
 .button {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
   cursor: pointer;
+}
+.your-business {
+  width: 1440px;
+  height: 600px;
+  background-color: #2e2f42;
+}
+/* #endregion */
+/* #region advantages styles */
+.advantages-h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.advantages-p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+/* #endregion */
+/* #region our team */
+.team-h2 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+.team-p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+}
+/* #endregion */
+/* #region portfolio styles */
+.portfolio-h2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.12;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+.portfolio-h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.portfolio-p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 .page-footer {
   background-color: #2e2f42;
 }
 .footer-logo .logo-part {
+  color: #f4f4fd;
+}
+.footer-p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #f4f4fd;
 }
