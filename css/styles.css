@@ -107,6 +107,9 @@ a {
   text-align: center;
   color: #434455;
 }
+.section-our-team {
+  background-color: #f4f4fd;
+}
 /* #endregion */
 /* #region portfolio styles */
 .portfolio-h2 {
@@ -130,6 +133,7 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
+/* #endregion */
 
 .page-footer {
   background-color: #2e2f42;
